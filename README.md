@@ -57,4 +57,4 @@ python src/churn_model.py
 
 IBM Telco Customer Churn (public) —
 [Kaggle](https://www.kaggle.com/datasets/blastchar/telco-customer-churn).
-Not committed to the repo; download separately.
+
